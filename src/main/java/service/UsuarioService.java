@@ -1,9 +1,10 @@
 package service;
 
-package com.seuprojeto.demo.service;
 
-import com.seuprojeto.demo.dto.UsuarioDTO;
-import com.seuprojeto.demo.model.Usuario;
+
+import com.UserController.dto.UsuarioDTO;
+import com.UserController.model.Usuario;
+
 import com.seuprojeto.demo.repository.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
